@@ -1,0 +1,1 @@
+APP_URL = "https://allamuchy-autoparts.herokuapp.com"
